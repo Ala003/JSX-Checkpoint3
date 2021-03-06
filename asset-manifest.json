@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JSX-Checkpoint3/static/css/main.ec440554.chunk.css",
+    "main.js": "/JSX-Checkpoint3/static/js/main.4112a975.chunk.js",
+    "main.js.map": "/JSX-Checkpoint3/static/js/main.4112a975.chunk.js.map",
+    "runtime-main.js": "/JSX-Checkpoint3/static/js/runtime-main.05bdb2fb.js",
+    "runtime-main.js.map": "/JSX-Checkpoint3/static/js/runtime-main.05bdb2fb.js.map",
+    "static/js/2.f56b5dcb.chunk.js": "/JSX-Checkpoint3/static/js/2.f56b5dcb.chunk.js",
+    "static/js/2.f56b5dcb.chunk.js.map": "/JSX-Checkpoint3/static/js/2.f56b5dcb.chunk.js.map",
+    "static/js/3.3709205a.chunk.js": "/JSX-Checkpoint3/static/js/3.3709205a.chunk.js",
+    "static/js/3.3709205a.chunk.js.map": "/JSX-Checkpoint3/static/js/3.3709205a.chunk.js.map",
+    "index.html": "/JSX-Checkpoint3/index.html",
+    "static/css/main.ec440554.chunk.css.map": "/JSX-Checkpoint3/static/css/main.ec440554.chunk.css.map",
+    "static/js/2.f56b5dcb.chunk.js.LICENSE.txt": "/JSX-Checkpoint3/static/js/2.f56b5dcb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/JSX-Checkpoint3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05bdb2fb.js",
+    "static/js/2.f56b5dcb.chunk.js",
+    "static/css/main.ec440554.chunk.css",
+    "static/js/main.4112a975.chunk.js"
+  ]
+}
