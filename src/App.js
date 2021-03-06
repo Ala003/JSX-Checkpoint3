@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import img from './imageInSrc.jpg';
 import './App.css';
 
 import React from 'react' ;  
@@ -9,9 +10,9 @@ const App = () => {
 
   <div class="a" >
                   <h1 className="title red">Ala</h1>
-    <img src="/imageInSrc.jpg" />
+    <img src={img} />
     <br/>
-    <img src=".public/imageInPublic.jpg" />
+    <img src="/imageInPublic.jpg" />
     <br/>
     <video width={320} height={240} controls>
     <source src="myVideo.mp4" type="video/mp4" />
